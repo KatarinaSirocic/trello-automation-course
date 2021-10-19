@@ -1,0 +1,85 @@
+{
+  "boards": [
+    {
+      "statusCode": 201,
+      "body": {
+        "name": "A board"
+      },
+      "user": 0,
+      "id": 4529049950,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "statusCode": 201,
+      "body": {
+        "name": "A board dfd"
+      },
+      "user": 0,
+      "id": 38420226640,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "hvgh",
+      "user": 0,
+      "id": 35269529861,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "ff",
+      "user": 0,
+      "id": 41909478018,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "body": {
+        "name": "A board dfd"
+      },
+      "user": 0,
+      "id": 86151716858,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "heyheyhey",
+      "user": 0,
+      "id": 52529763505,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "heyheyhey",
+      "user": 0,
+      "id": 39044639585,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "heyheyhey",
+      "user": 0,
+      "id": 68026109611,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "heyheyhey",
+      "user": 0,
+      "id": 74056440173,
+      "starred": false,
+      "created": "2021-10-16"
+    },
+    {
+      "name": "heyheyhey",
+      "user": 0,
+      "id": 14308255107,
+      "starred": false,
+      "created": "2021-10-16"
+    }
+  ],
+  "tasks": [],
+  "users": [],
+  "lists": []
+}
