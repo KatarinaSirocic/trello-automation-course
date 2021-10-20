@@ -32,18 +32,18 @@ describe("Network stubbing", () => {
         cy.visit('/')
 })
 
-it('Dinamically change parts of the response data', () => {
-    cy.intercept('/api/boards', [
-      {
-        name: 'Board',
-      },
-    ]);
-    cy.visit('/');
-  });
+// it('Dinamically change parts of the response data', () => {
+//     cy.intercept('/api/boards', [
+//       {
+//         name: 'Board',
+//       },
+//     ]);
+//     cy.visit('/');
+//   });
 
-  it('Delete board', () => {
-    cy.request('DELETE', '/api/boards/5940827060', {
-        statusCode: 200
-      })
-});
+//   it('Delete board', () => {
+//     cy.request('DELETE', '/api/boards/5940827060', {
+//         statusCode: 200
+//       })
+// });
 })
