@@ -1,0 +1,47 @@
+{
+    "name": "QA",
+    "user": 0,
+    "id": 40950404759,
+    "starred": false,
+    "created": "2021-10-19",
+    "lists": [
+      {
+        "boardId": 40950404759,
+        "title": "Homework list",
+        "id": 87886338616,
+        "created": "2021-10-20"
+      }
+    ],
+    "tasks": [
+      {
+        "boardId": 40950404759,
+        "description": "",
+        "completed": false,
+        "listId": 87886338616,
+        "title": "Stubbing network responses",
+        "id": 37627334601,
+        "created": "2021-10-20",
+        "deadline": "2021-10-23"
+      },
+      {
+        "boardId": 40950404759,
+        "description": "",
+        "completed": false,
+        "listId": 87886338616,
+        "title": "Changing parts of response data",
+        "id": 63822860860,
+        "created": "2021-10-20",
+        "deadline": "2021-10-23"
+      },
+      {
+        "boardId": 40950404759,
+        "description": "",
+        "completed": false,
+        "listId": 87886338616,
+        "title": "Intercepting",
+        "id": 62876091752,
+        "created": "2021-10-20",
+        "deadline": "2021-10-23"
+      }
+    ]
+  }

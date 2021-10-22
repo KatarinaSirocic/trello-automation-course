@@ -1,85 +1,76 @@
 {
   "boards": [
     {
-      "statusCode": 201,
-      "body": {
-        "name": "A board"
-      },
+      "name": "TO DO",
       "user": 0,
-      "id": 4529049950,
+      "id": 11608057807,
       "starred": false,
-      "created": "2021-10-16"
+      "created": "2021-10-19"
     },
     {
-      "statusCode": 201,
-      "body": {
-        "name": "A board dfd"
-      },
+      "name": "IN PROGRESS",
       "user": 0,
-      "id": 38420226640,
-      "starred": false,
-      "created": "2021-10-16"
+      "id": 88282436334,
+      "starred": true,
+      "created": "2021-10-19"
     },
     {
-      "name": "hvgh",
+      "name": "QA",
       "user": 0,
-      "id": 35269529861,
+      "id": 40950404759,
       "starred": false,
-      "created": "2021-10-16"
+      "created": "2021-10-19"
     },
     {
-      "name": "ff",
+      "name": "DONE",
       "user": 0,
-      "id": 41909478018,
+      "id": 21473456542,
       "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "body": {
-        "name": "A board dfd"
-      },
-      "user": 0,
-      "id": 86151716858,
-      "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "name": "heyheyhey",
-      "user": 0,
-      "id": 52529763505,
-      "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "name": "heyheyhey",
-      "user": 0,
-      "id": 39044639585,
-      "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "name": "heyheyhey",
-      "user": 0,
-      "id": 68026109611,
-      "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "name": "heyheyhey",
-      "user": 0,
-      "id": 74056440173,
-      "starred": false,
-      "created": "2021-10-16"
-    },
-    {
-      "name": "heyheyhey",
-      "user": 0,
-      "id": 14308255107,
-      "starred": false,
-      "created": "2021-10-16"
+      "created": "2021-10-19"
     }
   ],
-  "tasks": [],
+  "tasks": [
+    {
+      "boardId": 40950404759,
+      "description": "",
+      "completed": false,
+      "listId": 87886338616,
+      "title": "Stubbing network responses",
+      "id": 37627334601,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23",
+      "order": 0
+    },
+    {
+      "boardId": 40950404759,
+      "description": "",
+      "completed": false,
+      "listId": 87886338616,
+      "title": " Changing parts of response data",
+      "id": 63822860860,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23",
+      "order": 1
+    },
+    {
+      "boardId": 40950404759,
+      "description": "",
+      "completed": false,
+      "listId": 87886338616,
+      "title": "Intercepting",
+      "id": 62876091752,
+      "created": "2021-10-20",
+      "deadline": "2021-10-23",
+      "order": 2
+    }
+  ],
   "users": [],
-  "lists": []
+  "lists": [
+    {
+      "boardId": 40950404759,
+      "title": "Homework list",
+      "id": 87886338616,
+      "created": "2021-10-20"
+    }
+  ]
 }
