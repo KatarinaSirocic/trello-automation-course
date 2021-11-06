@@ -1,7 +1,8 @@
 {
-    "name": "heyhey",
-    "user": 0,
-    "id": 50283261695,
-    "starred": false,
-    "created": "2021-10-16"
-  }
+  "newBoard": "div[data-cy='create-board']",
+  "newBoardInput": "input[data-cy='new-board-input']",
+  "saveButton": "new-board-create",
+  "createdBoard": "[data-cy='board-item']",
+  "star": "[data-cy='star']",
+  "favoriteBoards": "[data-cy='favorite-boards']"
+}
