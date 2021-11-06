@@ -1,0 +1,7 @@
+{
+  "emailInput": "input[data-cy='login-email']",
+  "password": "input[data-cy='login-password']",
+  "loginButton": "button[data-cy='login']",
+  "loginMessage": "div[id='loginMessage']",
+  "logoutButton": "#myDropdown"
+}

@@ -1,0 +1,4 @@
+{
+  "loginButton": "div[data-cy='login-menu']",
+  "loggedUser": "div[data-cy='logged-user']"
+}
